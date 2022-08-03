@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/fresaasperasypapayas/fresaasperasypapayas/main/surf.gif" width="600"/>
+ <img src="https://raw.githubusercontent.com/fresasperasypapayas/fresaasperasypapayas/main/surf.gif" width="600"/>
 </p
