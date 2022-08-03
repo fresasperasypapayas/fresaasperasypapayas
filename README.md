@@ -1,11 +1,6 @@
 ##  HOLA
-![](https://static.wikia.nocookie.net/reinoanimalia/images/8/85/Alce.png/revision/latest?cb=20140311015929&path-prefix=es)
+![](https://i.pinimg.com/564x/5d/77/5b/5d775b8092fa978e18c03fd09deab735.jpg)
 
-🌱 Estudiante de Veterinaria y zootecnia 
-🔭 Me interesa la genetica, astronomia, teorias de la vida y razas
-🤔 Quisiera aprender a crear apps
-😄 Pronouns: she/her
-⚡ Fun fact: i like big animals like horses ond jirafs 
 <!--
 *fresaasperasypapayas/fresaasperasypapayas* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
