@@ -13,6 +13,9 @@
   <img src="https://i.pinimg.com/564x/5d/77/5b/5d775b8092fa978e18c03fd09deab735.jpg" alt="alce" width="200"/>
   <img src="https://i.pinimg.com/564x/47/59/4e/47594e87596159ea65a90babd7f732c7.jpg" alt="alce" width="200"/>
 </p>
+Mi nombre es Micah Hannah Lozano Agad
+
+tengo 3 mascotas, 2 perros y 1 gato
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/fresasperasypapayas/fresaasperasypapayas/main/surf.gif" width="600"/>
